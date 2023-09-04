@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "409723400130",
+    "project_id": "mynotes-65ee3",
+    "storage_bucket": "mynotes-65ee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409723400130:android:a7708b6d950fcd610a305b",
+        "android_client_info": {
+          "package_name": "com.firebase.cli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409723400130-u8h4d8e4qj0is4pgfnsr0v934lp3gom5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNBZ_Kk5GotmRgPxGeOoIUE7xcZTyGtqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409723400130-u8h4d8e4qj0is4pgfnsr0v934lp3gom5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "409723400130-7iv9dou8ktlnidmd8mrplhi4bujhb5fa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rinay.mynotes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409723400130:android:dcc509c5aab17c6b0a305b",
+        "android_client_info": {
+          "package_name": "com.rinay.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409723400130-u8h4d8e4qj0is4pgfnsr0v934lp3gom5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNBZ_Kk5GotmRgPxGeOoIUE7xcZTyGtqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409723400130-u8h4d8e4qj0is4pgfnsr0v934lp3gom5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "409723400130-7iv9dou8ktlnidmd8mrplhi4bujhb5fa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rinay.mynotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
